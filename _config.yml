@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: YINXS
-subtitle: 博客
-description:
+title: YINXS的博客
+subtitle: 前端工程师
+description: 
 keywords:
 author: yinxs
 language: zh-Hans
@@ -41,7 +41,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
   
 # Home page setting
@@ -73,9 +73,17 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
+search:
+     path: search.xml
+     field: post
+     format: html
+     limit: 10000
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: 
+    github: git@github.com:Hughendman/Hughendman.github.io,master
+  
