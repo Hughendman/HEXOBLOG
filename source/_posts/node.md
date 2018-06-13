@@ -1,10 +1,10 @@
-
 ---
 title: node
-date: 2018-06-09 11:15:00
-categories : node
+categories: node
 tags: node
-keywords : node
+keywords: node
+abbrlink: 857fe845
+date: 2018-06-09 11:15:00
 ---
 
 # node文件整理

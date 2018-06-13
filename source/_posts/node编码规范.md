@@ -1,11 +1,12 @@
 ---
 title: node编码规范
+categories: node
+tags:
+  - node
+  - 规范
+keywords: 规范
+abbrlink: 46cb4dd
 date: 2018-06-09 11:15:00
-categories : node
-tags: 
-    - node
-    - 规范
-keywords : 规范
 ---
 
 [node编码规范](https://www.jianshu.com/p/df57bb7f2acf)

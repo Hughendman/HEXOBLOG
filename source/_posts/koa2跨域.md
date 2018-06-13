@@ -1,11 +1,12 @@
 ---
 title: koa2跨域
+categories: node
+tags:
+  - node
+  - koa2
+keywords: node
+abbrlink: 8385bb90
 date: 2018-06-09 11:15:00
-categories : node
-tags: 
-    - node
-    - koa2
-keywords : node
 ---
 
 "koa2-cors": "^2.0.5",

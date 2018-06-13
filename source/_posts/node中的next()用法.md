@@ -1,9 +1,10 @@
 ---
 title: node中的next()用法
-date: 2018-06-09 11:15:00
-categories : node
+categories: node
 tags: node
-keywords : node
+keywords: node
+abbrlink: '2971356'
+date: 2018-06-09 11:15:00
 ---
 
 next()函数是用来调用下一个中间件的。

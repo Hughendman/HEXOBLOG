@@ -1,9 +1,10 @@
 ---
 title: python 函数
-date: 2018-06-11 11:15:00
-categories : python
+categories: python
 tags: python
-keywords : python
+keywords: python
+abbrlink: c9c130c3
+date: 2018-06-11 11:15:00
 ---
 
 ## 定义函数

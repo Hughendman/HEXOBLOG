@@ -1,9 +1,10 @@
 ---
 title: 反向代理+axios
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: 1466265d
+date: 2018-06-11 11:15:00
 ---
 
 [反向代理](http://blog.csdn.net/feifanzhuli/article/details/77990661)

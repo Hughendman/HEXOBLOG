@@ -1,5 +1,6 @@
 ---
 title: YINXS
+abbrlink: ef393ac8
 ---
 ## 信息
 

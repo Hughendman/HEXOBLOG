@@ -1,9 +1,10 @@
 ---
 title: vue的路由（route）
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: d41be5a0
+date: 2018-06-11 11:15:00
 ---
 
 ## vue的路由

@@ -1,11 +1,12 @@
 ---
 title: redis
+categories: redis
+tags:
+  - 服务器
+  - redis
+keywords: redis
+abbrlink: 7b25d017
 date: 2018-06-09 11:15:00
-categories : redis
-tags: 
-    - 服务器
-    - redis
-keywords : redis
 ---
 
 ### 下载

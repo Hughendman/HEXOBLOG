@@ -1,9 +1,10 @@
 ---
 title: vue中使用sass
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: e10abc6
+date: 2018-06-11 11:15:00
 ---
 
 ### 安装

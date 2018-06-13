@@ -1,9 +1,10 @@
 ---
 title: 如何在vue中引入jquery
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: f35d3e0b
+date: 2018-06-11 11:15:00
 ---
 
 ## 安装

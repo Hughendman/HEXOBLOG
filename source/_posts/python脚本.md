@@ -1,10 +1,10 @@
-
 ---
 title: python导数据脚本
-date: 2018-06-13 11:15:00
-categories : python
+categories: python
 tags: python
-keywords : python
+keywords: python
+abbrlink: 5dd43de5
+date: 2018-06-13 11:15:00
 ---
 
 刚刚上手，代码很不优雅，有待优化

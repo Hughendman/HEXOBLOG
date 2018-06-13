@@ -1,9 +1,10 @@
 ---
 title: Progressive Web Apps
-date: 2018-06-13 11:15:00
-categories : PWA
+categories: PWA
 tags: PWA
-keywords : PWA
+keywords: PWA
+abbrlink: a9b40ecc
+date: 2018-06-13 11:15:00
 ---
 
 > 今天想把muses项目升级为pwa，在本地运行还可以，但布到线上的时候，发现一直在报一个错误（Only secure origins are allowed (see: https://goo.gl/Y0ZkNV)），解决办法是将http协议升级为https，可以用nginx实现，但是需要证书

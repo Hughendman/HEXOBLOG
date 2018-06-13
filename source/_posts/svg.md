@@ -1,9 +1,10 @@
 ---
 title: svg
-date: 2018-06-13 11:15:00
-categories : 数据可视化
+categories: 数据可视化
 tags: svg
-keywords : 数据可视化
+keywords: 数据可视化
+abbrlink: '3452590'
+date: 2018-06-13 11:15:00
 ---
 
 ## svg

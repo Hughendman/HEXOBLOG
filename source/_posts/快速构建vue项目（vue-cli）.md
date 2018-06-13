@@ -1,9 +1,10 @@
 ---
 title: 快速构建vue项目（vue-cli）
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: fb88d540
+date: 2018-06-11 11:15:00
 ---
 
 ## 全局安装

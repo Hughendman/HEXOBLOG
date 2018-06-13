@@ -1,9 +1,10 @@
 ---
 title: GitHubPages + Hexo+Next构建你自己的博客
-date: 2018-06-11 11:15:00
-categories : 博客
+categories: 博客
 tags: 构建博客
-keywords : GitHubPages
+keywords: GitHubPages
+abbrlink: '3609924'
+date: 2018-06-11 11:15:00
 ---
 
 ### github准备

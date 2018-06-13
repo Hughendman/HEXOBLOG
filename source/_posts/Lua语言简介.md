@@ -1,10 +1,12 @@
-
 ---
 title: Lua语言简介
+categories: node
+tags:
+  - node
+  - 理论
+keywords: node
+abbrlink: 1f21691d
 date: 2018-06-09 11:15:00
-categories : node
-tags: [node,理论]
-keywords : node
 ---
 ## 简介 
 

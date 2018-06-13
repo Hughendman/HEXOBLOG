@@ -1,10 +1,10 @@
-
 ---
 title: node  和 文件（file）
-date: 2018-06-09 11:15:00
-categories : node
+categories: node
 tags: node
-keywords : node
+keywords: node
+abbrlink: 7e3a5fc6
+date: 2018-06-09 11:15:00
 ---
 
 ## fs

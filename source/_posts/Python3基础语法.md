@@ -1,9 +1,10 @@
 ---
 title: Python3基础语法
-date: 2018-06-11 11:15:00
-categories : python
+categories: python
 tags: python
-keywords : python
+keywords: python
+abbrlink: e5ac5920
+date: 2018-06-11 11:15:00
 ---
 
 ## 条件判断

@@ -1,10 +1,10 @@
-
 ---
 title: node 和 模板引擎（jade）
-date: 2018-06-09 11:15:00
-categories : node
+categories: node
 tags: node
-keywords : node
+keywords: node
+abbrlink: 34655c0e
+date: 2018-06-09 11:15:00
 ---
 > 注意：在node中假如同一路径有两个方法来对其进行处理，那么只有匹配到的第一个方法会被执行，剩余的略过
 

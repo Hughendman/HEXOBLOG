@@ -1,9 +1,10 @@
 ---
 title: node版本管理
-date: 2018-06-09 11:15:00
-categories : node
+categories: node
 tags: node
-keywords : node
+keywords: node
+abbrlink: f9ae89b2
+date: 2018-06-09 11:15:00
 ---
 
 #### linux下使用nvm

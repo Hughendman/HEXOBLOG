@@ -1,9 +1,10 @@
 ---
 title: python高级特性
-date: 2018-06-11 11:15:00
-categories : python
+categories: python
 tags: python
-keywords : python
+keywords: python
+abbrlink: 442f777e
+date: 2018-06-11 11:15:00
 ---
 
 

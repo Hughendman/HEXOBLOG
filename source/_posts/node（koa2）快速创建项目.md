@@ -1,11 +1,12 @@
 ---
 title: node（koa2）快速创建项目
+categories: node
+tags:
+  - node
+  - koa2
+keywords: node
+abbrlink: bde7ce9f
 date: 2018-06-09 11:15:00
-categories : node
-tags: 
-    - node
-    - koa2
-keywords : node
 ---
 
 # 创建项目（但是不支持热加载）

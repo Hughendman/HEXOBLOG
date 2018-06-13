@@ -1,9 +1,12 @@
 ---
 title: 开发一个自己的Node Web框架
+categories: node
+tags:
+  - node
+  - 理论
+keywords: node
+abbrlink: e7d607e7
 date: 2018-06-09 11:15:00
-categories : node
-tags: [node,理论]
-keywords : node
 ---
 
 ## 前言

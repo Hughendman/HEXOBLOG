@@ -1,11 +1,12 @@
 ---
 title: node框架简要说明（express）
+categories: node
+tags:
+  - node
+  - koa2
+keywords: node
+abbrlink: 448baf37
 date: 2018-06-09 11:15:00
-categories : node
-tags: 
-    - node
-    - koa2
-keywords : node
 ---
 
 ## 介绍

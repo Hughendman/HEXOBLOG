@@ -1,9 +1,10 @@
 ---
 title: python2.7执行excel
-date: 2018-06-11 11:15:00
-categories : python
+categories: python
 tags: python
-keywords : python
+keywords: python
+abbrlink: 2e50297d
+date: 2018-06-11 11:15:00
 ---
 
 ### 安装xlrd、xlwt、xlutils

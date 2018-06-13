@@ -1,9 +1,10 @@
 ---
 title: vue中自定义指令
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: ed2c1c4a
+date: 2018-06-11 11:15:00
 ---
 
 ```

@@ -1,10 +1,12 @@
-
 ---
 title: node--require（）为什么是同步的
+categories: node
+tags:
+  - node
+  - 理论
+keywords: node
+abbrlink: 82a3d2fb
 date: 2018-06-09 11:15:00
-categories : node
-tags: [node,理论]
-keywords : node
 ---
 
 1、因为使用的是CommonJS标准

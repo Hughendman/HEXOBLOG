@@ -1,9 +1,10 @@
 ---
 title: vue全局拦截前端错误（前端异常监控系统+ng4）
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: be8a39c8
+date: 2018-06-11 11:15:00
 ---
 
 ## errorHandler

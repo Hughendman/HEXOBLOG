@@ -1,11 +1,12 @@
 ---
 title: node 和 模板引擎（jade）
+categories: node
+tags:
+  - node
+  - koa2
+keywords: node
+abbrlink: 34655c0e
 date: 2018-06-09 11:15:00
-categories : node
-tags: 
-    - node
-    - koa2
-keywords : node
 ---
 
 > express 框架里内嵌了Jade模板引擎。

@@ -1,9 +1,10 @@
 ---
 title: Hexo高级使用
-date: 2018-06-12 11:15:00
-categories : 博客
+categories: 博客
 tags: 构建博客
-keywords : GitHubPages
+keywords: GitHubPages
+abbrlink: 3fb51549
+date: 2018-06-12 11:15:00
 ---
 
 ### 添加新的页面

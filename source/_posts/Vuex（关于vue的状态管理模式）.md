@@ -1,9 +1,10 @@
 ---
 title: Vuex（关于vue的状态管理模式）
-date: 2018-06-11 11:15:00
-categories : VUE
+categories: VUE
 tags: VUE
-keywords : VUE
+keywords: VUE
+abbrlink: 2fe08ed3
+date: 2018-06-11 11:15:00
 ---
 
 ## 介绍vuex
