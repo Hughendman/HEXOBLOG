@@ -1,6 +1,10 @@
 ---
 title: YINXS
 ---
+## 动态
+
+最近在学习数据结构与算法，推荐一篇文章： [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+
 ## 信息
 
 [github](https://github.com/Hughendman)  https://github.com/Hughendman

@@ -4,7 +4,7 @@ categories: VUE
 tags: VUE
 keywords: VUE
 abbrlink: f35d3e0b
-date: 2018-06-11 11:15:00
+date: 2017-06-11 11:15:00
 ---
 
 ## 安装

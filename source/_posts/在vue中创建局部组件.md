@@ -4,7 +4,7 @@ categories: VUE
 tags: VUE
 keywords: VUE
 abbrlink: a29b86a7
-date: 2018-06-11 11:15:00
+date: 2017-06-11 11:15:00
 ---
 
 ## 在main.js中写入

@@ -35,20 +35,11 @@ menu_icons:
 ```
 
 ---
-title: 在vue中使用less
-date: 2018-06-11 11:15:00
-categories : VUE
-tags: VUE
-keywords : VUE
----
-
----
-
-title: 自学编程成功概率有多少可能
-date: 2017-05-26 19:57:47
-tags: [编程,感悟]
-categories: 技术
-
+title: 归并排序
+categories: 算法
+tags: 算法
+abbrlink: 14e6f1eb
+date: 2018-06-14 11:15:00
 ---
 
 ```
@@ -106,5 +97,49 @@ search:
 在该功能下的index.md中添加
 
 type: "categories"
+
+```
+
+### 首页显示一部分
+
+* 进入themes/next目录下的_config.yml文件
+* 搜索"auto_excerpt"：
+
+
+```
+# Automatically Excerpt. Not recommand.
+# Please use <!-- more --> in the post to control excerpt accurately.
+auto_excerpt:
+  enable: false
+  length: 150
+
+```
+
+### 添加RSS
+
+```
+npm install hexo-generator-feed --save
+
+```
+
+打开 站点配置文件 找到Extensions在下面添加
+
+```
+
+# RSS订阅
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+
+```
+打开 主题配置文件 找到rss，设置为
+
+```
+rss: /atom.xml
 
 ```
