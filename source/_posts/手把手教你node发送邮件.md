@@ -30,7 +30,7 @@ let transporter = nodemailer.createTransport({
     });
     let mailOptions = {
         from: 'xuesong_yin@126.com', // 发送者
-        to: 'yinxs@jointwisdom.cn', // 接受者,可以同时发送多个,以逗号隔开
+        to: 'xuesong_yin@126.com', // 接受者,可以同时发送多个,以逗号隔开
         subject: 'YINXS博客', // 标题
         html: `<h2>YINXS博客</h2><p>http://hughendman.github.io</p>`
     };
@@ -62,7 +62,7 @@ let transporter = nodemailer.createTransport({
     });
     let mailOptions = {
         from: 'xuesong_yin@126.com', // 发送者
-        to: 'yinxs@jointwisdom.cn', // 接受者,可以同时发送多个,以逗号隔开
+        to: 'xuesong_yin@126.com', // 接受者,可以同时发送多个,以逗号隔开
         subject: 'YINXS博客', // 标题
         html: `<h2>YINXS博客</h2><p>http://hughendman.github.io</p>`,
         attachments:[

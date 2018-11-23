@@ -3,6 +3,7 @@ title: 在linux下部署PHP项目
 categories: PHP
 tags: PHP
 keywords: PHP
+abbrlink: 8197eef2
 date: 2018-08-09 16:15:00
 ---
 ### 安装httpd

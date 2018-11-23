@@ -25,7 +25,7 @@ worksheet.write(0, 2, label = 'UV')
 
 
 
-f = open('n.jointwisdom.cn.log','r')
+f = open('md.log','r')
 
 # Gets the statistics of the day's response file.
 

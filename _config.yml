@@ -4,7 +4,7 @@
 
 # Site
 title: YINXS的博客
-subtitle: 前端工程师
+subtitle: WEB全栈
 description: 
 keywords:
 author: yinxs
@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://hughendman.github.io
 root: /
 permalink: post/:abbrlink.html
 abbrlink:
